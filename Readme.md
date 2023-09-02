@@ -17,13 +17,12 @@ Assessment voor een Medior Software Engineer functie. De opdracht is om een impl
 
 Schrijf een implementatie in Python voor het spelletje 'boter, kaas en eieren' (tic tac toe).
 
-Je mag er vanuit gaan dat er twee spelers zijn die achter een console zitten.
+Je mag er vanuit gaan dat er twee spelers zijn die achter een console zitten. De ene speler speelt met een 'X' en de andere speler speelt met een 'O'. De spelers doen om beurten een zet. De speler die als eerste drie van zijn symbolen op een rij heeft, wint het spel. Als er geen winnaar is, eindigt het spel in een gelijkspel.
 
-Natuurlijk! Laten we elk van de genoemde punten nader bekijken en enkele overwegingen voor elk ervan opnoemen:
-
-1. **Wat jede beste datastructuur voor het spelletje vindt?**
+1. **Wat je de beste datastructuur voor het spelletje vindt?**
 
    - **Matrix**: Een 3x3 matrix (lijst van lijsten) is het speelveld van boter, kaas en eieren te representeren.
+   - **Enum**: Een enum voor de spelers (X en O) .
 
 2. **Wat je de beste naamgeving voor je functies/methoden vindt?**
 
