@@ -70,7 +70,7 @@ Natuurlijk! Laten we elk van de genoemde punten nader bekijken en enkele overweg
    - - -
    - - -
    -----------------------
-   Player X, please enter a row and column number (e.g. 1,2):
+   Player X, please enter a row and column number (e.g. 1 2):
    ```
 
    Geef een rij- en kolomnummer op gescheiden door een spatie, bijvoorbeeld: `1 2`.
